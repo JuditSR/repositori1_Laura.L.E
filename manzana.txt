@@ -1,1 +1,2 @@
 Lopez Laura
+Afegeixo línia desde el repositori local
